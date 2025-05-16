@@ -1479,7 +1479,7 @@
               "C": "Human",
               "D": "Physical"
             },
-            "correct_option": "B"
+            "correct_option": "D"
           },
           {
             "question": "In existence ‘units’ are",
@@ -1487,9 +1487,9 @@
               "A": "Unlimited in size and also active",
               "B": "Unlimited in size, but inactive",
               "C": "Limited in size and also active",
-              "D": "Limited in size and also active"
+              "D": "Limited in size and but inactive"
             },
-            "correct_option": "D"
+            "correct_option": "C"
           },
           {
             "question": "Space is/are",
@@ -2009,7 +2009,7 @@
               "C": "Recognition/Fulfilment",
               "D": "Composition/Decomposition"
             },
-            "correct_option": "D"
+            "correct_option": "C"
           },
           {
             "question": "Existence means ......................",
@@ -2099,17 +2099,17 @@
               "C": "Commitment to invest one’s self, body and physical facilities for understanding and living in harmony at all the 4 levels.",
               "D": "All of these"
             },
-            "correct_option": "C"
+            "correct_option": "A"
           },
           {
-            "question": "Bravery means ............",
+            "question": "Bravity means ............",
             "options": {
               "A": "Commitment for living in harmony at all 4 levels with patience",
               "B": "Commitment in helping others to understand harmony and live in harmony at all the 4 levels",
               "C": "Commitment to invest one’s self, body and physical facilities for understanding and living in harmony at all the 4 levels.",
               "D": "All of these"
             },
-            "correct_option": "C"
+            "correct_option": "B"
           },
           {
             "question": "Generosity means................",
@@ -2129,7 +2129,7 @@
               "C": "Trust",
               "D": "Love"
             },
-            "correct_option": "C"
+            "correct_option": "B"
           },
           {
             "question": "There is .............in the 4 orders of the nature.",
@@ -2149,7 +2149,7 @@
               "C": "Realization",
               "D": "Comparing"
             },
-            "correct_option": "B"
+            "correct_option": "C"
           },
           {
             "question": "Awakening to the activity of ............... leads to clarity of Harmony in nature, Self organization (Innateness)",
@@ -2169,7 +2169,7 @@
               "C": "Realization",
               "D": "Comparing"
             },
-            "correct_option": "B"
+            "correct_option": "A"
           },
           {
             "question": "Which among the following indicates the participation in larger order?",
@@ -2359,7 +2359,7 @@
               "C": "Both",
               "D": "None of these"
             },
-            "correct_option": "C"
+            "correct_option": "B"
           },
           {
             "question": "Education and health take care of our ..........................",
@@ -2369,7 +2369,7 @@
               "C": "Both",
               "D": "None of these"
             },
-            "correct_option": "C"
+            "correct_option": "A"
           }
         ]
       }
