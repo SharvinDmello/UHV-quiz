@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+    color: #eee;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 30px;
+  }
+  
+  .container {
+    background: rgba(0, 0, 0, 0.75);
+    padding: 25px;
+    border-radius: 16px;
+    box-shadow: 0 0 25px rgba(0,255,255,0.2);
+    max-width: 850px;
+    width: 100%;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #66fcf1;
+    margin-bottom: 20px;
+  }
+  
+  #score-panel {
+    font-size: 18px;
+    margin-bottom: 20px;
+    text-align: right;
+    color: #45a29e;
+  }
+  
+  .question-card {
+    background: #1f2833;
+    border: 1px solid #45a29e;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: 0.3s;
+  }
+  
+  .question-text {
+    font-size: 18px;
+    font-weight: bold;
+    color: #66fcf1;
+    margin-bottom: 10px;
+  }
+  
+  .option {
+    background: #2c3e50;
+    padding: 12px 15px;
+    border-radius: 8px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.2s;
+    color: #ecf0f1;
+  }
+  
+  .option:hover {
+    background: #34495e;
+    transform: scale(1.02);
+  }
+  
+  .option.correct {
+    background-color: #27ae60 !important;
+    color: #fff;
+  }
+  
+  .option.wrong {
+    background-color: #c0392b !important;
+    color: #fff;
+    text-decoration: line-through;
+    font-style: italic;
+  }
+  
+  .option.disabled {
+    pointer-events: none;
+  }
+  
+  #result-container {
+    text-align: center;
+    display: none;
+    margin-top: 30px;
+  }
+  
+  #score-text {
+    font-size: 22px;
+    font-weight: bold;
+    color: #00ffcc;
+  }
+  
+  #reset-btn {
+    background: #00adb5;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background 0.3s;
+  }
+  
+  #reset-btn:hover {
+    background: #008b94;
+  }
+  
